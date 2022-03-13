@@ -1,0 +1,258 @@
+.body{
+    background-color: rgb(0, 0, 0);
+    color: gold;
+}
+.header{
+    background-color: rgb(0, 0, 0) ;
+    height: 65px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.barra{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+}
+
+
+.logo{
+    color: gold;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0px 40px;
+    line-height: 65px;
+}
+.icon1{
+    padding-top: 30px;
+}
+.menu{
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+}
+
+.bot{
+    font-size: 20px;
+    margin: 0 10px;
+    line-height:35px;
+    text-transform: uppercase;
+    width: max-content;
+    
+}
+.dato{
+    padding: 3px 3px;
+    border-radius: 10px;
+    
+}
+.dato:hover{
+    background-color: rgb(240, 204, 4);
+}
+.fondo{
+    width: 1331px;
+    height: 300px;
+  
+    align-items: center;
+    position: absolute;
+}
+
+.inf{
+    text-align: center;
+    position: relative;
+}
+    .jhonatan {
+        color: white;
+        padding: 100px 20px;
+
+    }
+.foto{
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding: 0px 100px;
+}
+.perfil{
+    margin-top: 100px;
+}
+.p{
+    text-align: justify;
+    color: white;
+}
+.icon{
+    height:32px;
+    width:32px;
+}
+.hab{
+    margin-top: 100px;
+    display: flex;
+}
+.img1{
+width: 250px;
+height: 250px;
+position: relative;
+left: 10px;
+top: 0px;
+}
+.img2{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    left: 275px;
+    top: 785px;
+    }
+.img3{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    left: 532px;
+    top: 785px;
+    }
+.img4{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    left: 789px;
+    top: 785px;
+    }
+.img5{
+    width: 250px;
+    height: 250px;
+    position:absolute;
+    left: 1046px;
+    top: 785px;
+    }
+.txt1{
+    color: gold;
+    padding-left: 30px;
+    position:absolute;
+}
+.txt2{
+    color: gold;
+    padding-left: 300px;
+    position: absolute;
+      
+}
+.txt3{
+    text-align: center;
+    color: gold;
+    padding-left: 530px;
+    position: absolute;
+      
+}
+.txt4{
+    color: gold;
+    text-align: center;
+    padding-left: 800px;
+    position:absolute ;
+      
+}
+.txt5{
+    color: gold;
+    text-align: center;
+    padding-left: 1100px;
+    position:absolute ;
+      
+}
+.p li{list-style-type:circle;
+}
+
+.emp1{
+    width: 180px;
+    height: 180px;
+    position: relative;
+    left: 10px;
+    top: 0px;
+    }
+.emp2{
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    left: 277px;
+    top: 2106px;
+    }
+.emp3{
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    left: 537px;
+    top: 2106px;
+    }
+.emp4{
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    left: 796px;
+    top: 2106px;
+    }
+.emp5{
+    width: 180px;
+    height: 180px;
+    position:absolute;
+    left: 1055px;
+    top: 2106px;
+    }
+.last{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    color: white;
+    background-color: gold;
+}
+footer{
+    width: 100%;
+    background-color:#545146 ;
+    color: white;
+}
+
+.containerfo{
+width: 100%;
+max-width: 1200px;
+display: flex;
+justify-content: space-between;
+margin: auto;
+padding: 40px;
+}
+.part1{
+    max-width: 400px;
+}
+.part1 h1{
+    font-size: 20px;
+}
+.part1 img{
+    width: 100px;
+    height: 100px;
+}
+
+.part2{
+    max-width: 400px;
+}
+.part2 h1{
+    font-size: 22px;
+}
+.part2 p{
+    font-size: 20px;
+}
+.part3 p{
+    max-width: 400px;
+}
+.part3 h1,label{
+    font-size: 22px;
+}
+.row{
+    margin-top: 20px;
+    display: flex;
+}
+.row img{
+    width: 35px;
+    height: 35px;
+}
+label{
+    margin-top: 0px;
+    margin-left: 20px;
+    
+}
+
+        
